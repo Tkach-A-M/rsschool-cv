@@ -32,7 +32,7 @@ I have basic knowledge in:
 - SQL
 - PHP
 
-##Code example
+## Code example
 
 
 Task: given a string of words, return the length of the shoter word(s).
