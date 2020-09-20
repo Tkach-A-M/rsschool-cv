@@ -53,3 +53,16 @@ function findShort(s){
 - ITSupportMe: Introduction to the software testing
 - ItClass
 - EPAM JS cources [examples](https://gitlab.com/Tkach_AM/js_by_tkach_am)
+
+## Education
+
+
+- Belarusian state university of transport (2010-2015): Electrical engeneer
+- Belarusian state university of transport (2015-2017): Master of Engineering 
+and Technology
+
+## English level
+
+
+**A2**
+
