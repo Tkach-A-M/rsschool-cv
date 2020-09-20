@@ -31,3 +31,25 @@ I have basic knowledge in:
 - JS
 - SQL
 - PHP
+
+##Code example
+
+
+Task: given a string of words, return the length of the shoter word(s).
+String will never be empty and you do not need to account for different data 
+types.
+```javascript
+
+function findShort(s){
+	return Math.min(...s.split(" ").map(word => word.length));
+}
+```
+
+## Experience
+
+
+**Cources:**
+- RusWizards: iOS development
+- ITSupportMe: Introduction to the software testing
+- ItClass
+- EPAM JS cources [examples](https://gitlab.com/Tkach_AM/js_by_tkach_am)
